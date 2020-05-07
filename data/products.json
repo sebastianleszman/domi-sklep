@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1",
+    "title": "Kontener Arco L",
+    "imageUrl": "https://mebway.pl/pub/media/catalog/product/cache/b2921673ad0fdf3bd5d9ce3de4dff452/k/o/kontener_arco_l.jpg",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolorum consectetur perspiciatis possimus. Cum ullam illum quibusdam molestiae omnis eius accusamus!",
+    "price": "708.90"
+  },
+  {
+    "id": "2",
+    "title": "Regał Arco 1",
+    "imageUrl": "https://mebway.pl/pub/media/catalog/product/cache/b2921673ad0fdf3bd5d9ce3de4dff452/r/e/rega_arco1.jpg",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolorum consectetur perspiciatis possimus. Cum ullam illum quibusdam molestiae omnis eius accusamus!",
+    "price": "514.43"
+  },
+  {
+    "id": "3",
+    "title": "Szafa ubraniowa Arco Slim",
+    "imageUrl": "https://mebway.pl/pub/media/catalog/product/cache/b2921673ad0fdf3bd5d9ce3de4dff452/s/z/szafa_ubraniowa_arco_slim.jpg",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolorum consectetur perspiciatis possimus. Cum ullam illum quibusdam molestiae omnis eius accusamus!",
+    "price": "451.60"
+  },
+  {
+    "id": "4",
+    "title": "Szafa ubraniowa Arco Slim",
+    "imageUrl": "https://mebway.pl/pub/media/catalog/product/cache/b2921673ad0fdf3bd5d9ce3de4dff452/s/z/szafa_ubraniowa_arco_slim.jpg",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolorum consectetur perspiciatis possimus. Cum ullam illum quibusdam molestiae omnis eius accusamus!",
+    "price": "451.60"
+  },
+  {
+    "id": "5",
+    "title": "Szafa ubraniowa Arco Slim",
+    "imageUrl": "https://mebway.pl/pub/media/catalog/product/cache/b2921673ad0fdf3bd5d9ce3de4dff452/s/z/szafa_ubraniowa_arco_slim.jpg",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolorum consectetur perspiciatis possimus. Cum ullam illum quibusdam molestiae omnis eius accusamus!",
+    "price": "451.60"
+  },
+  {
+    "id": "6",
+    "title": "Szafa ubraniowa Arco Slim",
+    "imageUrl": "https://mebway.pl/pub/media/catalog/product/cache/b2921673ad0fdf3bd5d9ce3de4dff452/s/z/szafa_ubraniowa_arco_slim.jpg",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolorum consectetur perspiciatis possimus. Cum ullam illum quibusdam molestiae omnis eius accusamus!",
+    "price": "451.60"
+  },
+  {
+    "id": "7",
+    "title": "KOMODA DIZZY C - 120x40x120",
+    "imageUrl": "https://mebway.pl/pub/media/catalog/product/cache/b2921673ad0fdf3bd5d9ce3de4dff452/k/o/komoda_dizzy_c.jpg",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolorum consectetur perspiciatis possimus. Cum ullam illum quibusdam molestiae omnis eius accusamus!",
+    "price": "649.99"
+  },
+  {
+    "id": "8",
+    "title": "KOMODA DITA C - 180x40x63",
+    "imageUrl": "https://mebway.pl/pub/media/catalog/product/cache/b2921673ad0fdf3bd5d9ce3de4dff452/k/o/komoda_ditac.jpg",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolorum consectetur perspiciatis possimus. Cum ullam illum quibusdam molestiae omnis eius accusamus!",
+    "price": "653.00"
+  }
+]
